@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, my name is David Wen.
+
+I am a student based in New York City, and currently a Junior pursuing a bachelor's degree in Computer Science at NYU.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My hobbies include dabbling in VR, and playing card games competitively. 
 
