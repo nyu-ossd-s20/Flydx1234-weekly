@@ -21,5 +21,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 1   | https://github.com/joannakl/ossd_s20/pull/6   | course website    |   I updated an old link.    |
-|     |     |     |      |
+| Feb 12  | https://www.openstreetmap.org/changeset/80922244#map=14/40.6704/-73.8953  | OpenStreetMap    | I added a location.     |
 |     |     |     |      |
