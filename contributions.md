@@ -30,6 +30,6 @@ Replace the first row with your own contribution.
 |Feb 29 | <https://en.wikipedia.org/w/index.php?title=Cardfight!!_Vanguard&diff=prev&oldid=943277962> | Wikipedia | Removing unnecessary information.|
 |Mar 03 | <https://www.openstreetmap.org/changeset/81734275#map=19/40.76038/-73.82752> | OpenStreetMap | Updated restuarant information.| 
 |Mar 03 | <https://www.openstreetmap.org/changeset/81734463#map=19/40.76073/-73.82686> | OpenStreetMap | Added restuarant in Flushing. |
-
-
+|Mar 06 | <https://www.openstreetmap.org/changeset/81885827#map=19/40.75885/-73.83300> | OpenStreetMap | Added KTV location in Flushing. |
+|Mar 06 | <https://www.openstreetmap.org/changeset/81885972#map=19/40.76128/-73.82805> | OpenStreetMap | Added restuarant in Flushing. |
 
