@@ -34,4 +34,7 @@ Replace the first row with your own contribution.
 |Mar 06 | <https://www.openstreetmap.org/changeset/81885972#map=19/40.76128/-73.82805> | OpenStreetMap | Added restuarant in Flushing. |
 |Mar 06 | <https://en.wikipedia.org/w/index.php?title=Phaser_(game_framework)&diff=prev&oldid=944295714> | Wikipedia | Added description about Phaser 4.|
 |Mar 06 | <https://en.wikipedia.org/w/index.php?title=Phaser_(game_framework)&diff=prev&oldid=944295868> | Wikipedia | Updated timing of words for Phaser 3.|
+|Mar 13 | <https://www.openstreetmap.org/changeset/82172631#map=19/40.75904/-73.83377> | OpenStreetMap | Added gaming universe Flushing.|
+|Mar 13|  <https://www.openstreetmap.org/changeset/82172475#map=19/40.75950/-73.83349> | OpenStreetMap | Removed location that doesn't exist anymore|
+|Mar 13| <https://www.openstreetmap.org/changeset/82172375> | OpenStreetMap | Added restuarant in Flushing. |
 
