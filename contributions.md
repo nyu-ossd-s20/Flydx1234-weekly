@@ -38,4 +38,5 @@ Replace the first row with your own contribution.
 |Mar 13|  <https://www.openstreetmap.org/changeset/82172475#map=19/40.75950/-73.83349> | OpenStreetMap | Removed location that doesn't exist anymore.|
 |Mar 13| <https://www.openstreetmap.org/changeset/82172375> | OpenStreetMap | Added restuarant in Flushing. |
 |Mar 16| <https://en.wikipedia.org/w/index.php?title=Phaser_(game_framework)&diff=prev&oldid=945843764> | Wikipedia | Fixed broken link.|
-
+|Mar 20| <https://en.wikipedia.org/w/index.php?title=Phaser_(game_framework)&diff=prev&oldid=946485417> | Wikipedia | Added link to another wikipedia page. |
+|Mar 20 | <https://www.openstreetmap.org/changeset/82433408#map=18/40.71800/-73.98803> | OpenStreetMap | Added arcades and subway restaurant in LES Manhattan. |
