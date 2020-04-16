@@ -41,3 +41,4 @@ Replace the first row with your own contribution.
 |Mar 20| <https://en.wikipedia.org/w/index.php?title=Phaser_(game_framework)&diff=prev&oldid=946485417> | Wikipedia | Added link to another wikipedia page. |
 |Mar 20 | <https://www.openstreetmap.org/changeset/82433408#map=18/40.71800/-73.98803> | OpenStreetMap | Added arcades and subway restaurant in LES Manhattan. |
 |Mar 27 | <https://www.openstreetmap.org/edit#map=21/40.75956/-73.83056> | OpenStreetMap | Added Dunkin Donuts in Flushing. |
+|Apr 16 | <https://en.wikipedia.org/w/index.php?title=Cardfight!!_Vanguard&diff=prev&oldid=951319916> | Wikipedia | Added new game release. |
