@@ -45,5 +45,5 @@ Replace the first row with your own contribution.
 |Apr 16 | <https://www.openstreetmap.org/changeset/83673363> | Open Street Map | Added tea store in Flushing. |
 |Apr 16 | <https://github.com/joannakl/ossd_s20/pull/28> | Class Website | Fixed a type. | 
 |Apr 18 | <https://www.openstreetmap.org/changeset/83752535#map=17/40.76157/-73.83199> | Open Street Map | Added restaurant in Flushing.|
-|Apr 19 | https://en.wikipedia.org/w/index.php?title=Wei%C3%9F_Schwarz&diff=prev&oldid=951766032 | Wikipedia | Edited grammar and description. |
+|Apr 18 | https://en.wikipedia.org/w/index.php?title=Wei%C3%9F_Schwarz&diff=prev&oldid=951766032 | Wikipedia | Edited grammar and description. |
 
