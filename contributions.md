@@ -47,3 +47,4 @@ Replace the first row with your own contribution.
 |Apr 18 | <https://www.openstreetmap.org/changeset/83752535#map=17/40.76157/-73.83199> | Open Street Map | Added restaurant in Flushing.|
 |Apr 18 | https://en.wikipedia.org/w/index.php?title=Wei%C3%9F_Schwarz&diff=prev&oldid=951766032 | Wikipedia | Edited grammar and description. |
 |Apr 20 | <https://www.openstreetmap.org/changeset/83829110> | Open Street Map | Added restaurant in Flushing. | 
+|Apr 22 | <https://www.openstreetmap.org/changeset/83944857> | Open Street Map | Added bakery and restaurant in Flushing. | 
