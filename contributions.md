@@ -49,3 +49,4 @@ Replace the first row with your own contribution.
 |Apr 20 | <https://www.openstreetmap.org/changeset/83829110> | Open Street Map | Added restaurant in Flushing. | 
 |Apr 22 | <https://www.openstreetmap.org/changeset/83944857> | Open Street Map | Added bakery and restaurant in Flushing. | 
 |Apr 24 | <https://www.openstreetmap.org/changeset/84087673#map=19/40.79035/-73.94750> | Open Street Map | Added replacement restaurant for one that closed down.|
+|Apr 30 | <https://www.openstreetmap.org/edit#map=20/40.71935/-73.98615> | Open Street Map | Replaced closed restuarant. |
