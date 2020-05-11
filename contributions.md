@@ -50,4 +50,5 @@ Replace the first row with your own contribution.
 |Apr 22 | <https://www.openstreetmap.org/changeset/83944857> | Open Street Map | Added bakery and restaurant in Flushing. | 
 |Apr 24 | <https://www.openstreetmap.org/changeset/84087673#map=19/40.79035/-73.94750> | Open Street Map | Added replacement restaurant for one that closed down.|
 |Apr 30 | <https://www.openstreetmap.org/edit#map=20/40.71935/-73.98615> | Open Street Map | Replaced closed restuarant. |
-|Mar 02 | <https://www.openstreetmap.org/changeset/84540857> | Open Street Map | Added tabletop gaming store. |
+|May 02 | <https://www.openstreetmap.org/changeset/84540857> | Open Street Map | Added tabletop gaming store. |
+|May 11 | <https://www.openstreetmap.org/changeset/85039496> Open Street Map | Deleted places that don't exist anymore. |
